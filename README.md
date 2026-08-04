@@ -34,7 +34,6 @@ I build software with a bias toward the backend — the parts that have to stay 
 
 Most of my recent work sits at the intersection of full stack development and system design — building APIs and data models that hold up as an application grows, not just ones that work on day one. I care about the reasoning behind an architectural decision as much as the decision itself.
 
-Outside of coursework, I spend time reading about distributed systems and cloud infrastructure, and translating that into side projects rather than leaving it as theory.
 
 ```text
 Open to      : full-stack and backend-focused roles
@@ -73,21 +72,6 @@ Ship it once it can be trusted.
 
 <br>
 
-## Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Garv31&theme=dracula&no-frame=true&row=1&column=6" />
-</p>
-
-<br>
-
-## Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Garv31/Garv31/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</p>
-
-<br>
 
 ## GitHub Statistics
 
