@@ -3,17 +3,23 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2500&pause=800&color=E9D5FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%C2%B7+Mern+Stack+Developer+%C2%B7+Backend+Focused" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2500&pause=800&color=E9D5FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%C2%B7+Full+Stack+Developer+%C2%B7+Backend+Focused" alt="Tagline" />
 </p>
 
 <p align="center">
-<a href="mailto:garv31106@gmail.com"><img src="https://img.shields.io/badge/EMAIL-garv31106@gmail.com-9333EA?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/garv-arora-947669351"><img src="https://img.shields.io/badge/LINKEDIN-Garv%20Arora-9333EA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Garv31"><img src="https://img.shields.io/badge/GITHUB-Garv31-9333EA?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=gmail&logoColor=white" height="24"/> <strong>Email</strong>
+<a href="mailto:garv31106@gmail.com"><img src="https://img.shields.io/badge/-garv31106%40gmail.com-9333EA?style=flat-square" height="24"/></a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=linkedin&logoColor=white" height="24"/> <strong>LinkedIn</strong>
+<a href="https://www.linkedin.com/in/garv-arora-947669351"><img src="https://img.shields.io/badge/-Garv%20Arora-9333EA?style=flat-square" height="24"/></a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=github&logoColor=white" height="24"/> <strong>GitHub</strong>
+<a href="https://github.com/Garv31"><img src="https://img.shields.io/badge/-Garv31-9333EA?style=flat-square" height="24"/></a>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-9333EA?style=for-the-badge" />
+<strong>STATUS</strong>&nbsp;
+<img src="https://img.shields.io/badge/-OPEN%20TO%20WORK-9333EA?style=flat-square" height="26"/>
 </p>
 
 <p align="center">
