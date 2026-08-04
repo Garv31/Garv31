@@ -77,10 +77,7 @@ Fun Fact             : I debug as much as I build
 ## GitHub Statistics
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,100:1e0a2e&height=3&width=100%25" width="100%"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Garv31&show_icons=true&hide_border=true&theme=shades-of-purple" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garv31&layout=compact&hide_border=true&theme=shades-of-purple" height="170"/>
-</p>
+
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garv31&hide_border=true&theme=shades-of-purple" height="170"/>
