@@ -37,9 +37,20 @@ Most of my recent work sits at the intersection of full stack development and sy
 
 Outside of coursework, I spend time reading about distributed systems and cloud infrastructure, and translating that into side projects rather than leaving it as theory.
 
-> **Open to** — full-stack and backend-focused roles<br>
-> **Ask me about** — React, Next.js, Node.js, PostgreSQL, system design<br>
-> **Currently** — deepening my understanding of distributed systems
+<p align="center">
+<strong>Open to</strong>&nbsp;
+<img src="https://img.shields.io/badge/-full--stack%20and%20backend--focused%20roles-9333EA?style=flat-square" height="24"/>
+</p>
+
+<p align="center">
+<strong>Ask me about</strong>&nbsp;
+<img src="https://img.shields.io/badge/-React%20%C2%B7%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20PostgreSQL%20%C2%B7%20System%20Design-9333EA?style=flat-square" height="24"/>
+</p>
+
+<p align="center">
+<strong>Currently</strong>&nbsp;
+<img src="https://img.shields.io/badge/-Deepening%20my%20understanding%20of%20distributed%20systems-9333EA?style=flat-square" height="24"/>
+</p>
 
 <br>
 
@@ -71,8 +82,6 @@ Outside of coursework, I spend time reading about distributed systems and cloud 
 </p>
 
 <br>
-
-
 
 ## GitHub Statistics
 
