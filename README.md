@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2500&pause=800&color=F0ABFC&center=true&vCenter=true&width=900&lines=Software+Engineer+%C2%B7+Full+Stack+Developer+%C2%B7+Backend+Focused" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2500&pause=800&color=F0ABFC&center=true&vCenter=true&width=900&lines=Software+Engineer+%C2%B7+Mern+Stack+Developer+%C2%B7+Backend+Focused" alt="Tagline" />
 </p>
 
 <p align="center">
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-your.email@example.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-Garv%20Arora-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GITHUB-YOUR__USERNAME-A855F7?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/garv-arora-947669351?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LINKEDIN-Garv%20Arora-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Garv31"><img src="https://img.shields.io/badge/GITHUB-YOUR__USERNAME-A855F7?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
