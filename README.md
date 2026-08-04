@@ -76,11 +76,6 @@ Ship it once it can be trusted.
 ## GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Garv31&show_icons=true&hide_border=true&theme=shades-of-purple" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garv31&layout=compact&hide_border=true&theme=shades-of-purple" height="170"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garv31&hide_border=true&theme=shades-of-purple" height="170"/>
 </p>
 
