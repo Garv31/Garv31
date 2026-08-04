@@ -1,18 +1,20 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0891b2&height=200&section=header&text=Garv%20Arora&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Backend%20Focused&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:6366f1&height=200&section=header&text=Garv%20Arora&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Backend%20Focused&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-your.email@example.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-Garv%20Arora-0891b2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GITHUB-YOUR__USERNAME-0891b2?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-your.email@example.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-Garv%20Arora-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GITHUB-YOUR__USERNAME-6366F1?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-0891b2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-6366F1?style=for-the-badge" />
 </p>
 
-<h3 align="center">Building systems that hold up under real conditions</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Building+systems+that+hold+up+under+real+conditions;Backend-first+%C2%B7+System+design+%C2%B7+Clean+architecture;Turning+constraints+into+working+software" alt="Typing SVG" />
+</p>
 
 <br>
 
@@ -44,19 +46,19 @@ Ship it once it can be trusted.
 
 ## Tech Stack
 
-**Frontend**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,ts,js" />
+<p align="center"><strong>Frontend</strong></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,ts,js&theme=dark" />
 </p>
 
-**Backend**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,py,cpp" />
+<p align="center"><strong>Backend</strong></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,cpp&theme=dark" />
 </p>
 
-**Database & Tools**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,git,github,postman,vscode,vercel" />
+<p align="center"><strong>Database & Tools</strong></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,git,github,postman,vscode,vercel&theme=dark" />
 </p>
 
 <br>
@@ -64,12 +66,16 @@ Ship it once it can be trusted.
 ## GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=default" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="90%"/>
 </p>
 
 <br>
@@ -77,15 +83,15 @@ Ship it once it can be trusted.
 <h3 align="center">Let's build something worth shipping</h3>
 
 <p align="center">
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-0891b2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-0891b2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GITHUB-0891b2?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-6366F1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GITHUB-6366F1?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=6366F1&style=for-the-badge" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:1e1b4b&height=100&section=footer" width="100%"/>
 </p>
