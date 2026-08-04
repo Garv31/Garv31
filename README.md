@@ -1,23 +1,23 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=48&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=900&height=80&lines=Garv+Arora" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=48&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=900&height=80&lines=Garv+Arora" alt="Name" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2500&pause=800&color=5EEAD4&center=true&vCenter=true&width=900&lines=Software+Engineer+%C2%B7+Mern+Stack+Developer+%C2%B7+Backend+Focused" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2500&pause=800&color=FDE68A&center=true&vCenter=true&width=900&lines=Software+Engineer+%C2%B7+Mern+Stack+Developer+%C2%B7+Backend+Focused" alt="Tagline" />
 </p>
 
 <p align="center">
-<a href="mailto:garv31106@gmail.com"><img src="https://img.shields.io/badge/EMAIL-garv31106@gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/garv-arora-947669351"><img src="https://img.shields.io/badge/LINKEDIN-Garv%20Arora-10B981?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Garv31"><img src="https://img.shields.io/badge/GITHUB-Garv31-10B981?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:garv31106@gmail.com"><img src="https://img.shields.io/badge/EMAIL-garv31106@gmail.com-F59E0B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/garv-arora-947669351"><img src="https://img.shields.io/badge/LINKEDIN-Garv%20Arora-F59E0B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Garv31"><img src="https://img.shields.io/badge/GITHUB-Garv31-F59E0B?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-F59E0B?style=for-the-badge" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=600&lines=Building+systems+that+hold+up+under+real+conditions;Backend-first+%C2%B7+System+design+%C2%B7+Clean+architecture;Turning+constraints+into+working+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&width=600&lines=Building+systems+that+hold+up+under+real+conditions;Backend-first+%C2%B7+System+design+%C2%B7+Clean+architecture;Turning+constraints+into+working+software" alt="Typing SVG" />
 </p>
 
 <br>
@@ -70,7 +70,7 @@ Ship it once it can be trusted.
 ## Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Garv31&theme=dark&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Garv31&theme=gruvbox&no-frame=true&row=1&column=6" />
 </p>
 
 <br>
@@ -86,16 +86,16 @@ Ship it once it can be trusted.
 ## GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Garv31&show_icons=true&hide_border=true&theme=dark" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garv31&layout=compact&hide_border=true&theme=dark" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Garv31&show_icons=true&hide_border=true&theme=maroongold" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garv31&layout=compact&hide_border=true&theme=maroongold" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Garv31&hide_border=true&theme=dark" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Garv31&hide_border=true&theme=maroongold" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Garv31&theme=cobalt&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Garv31&theme=onedark&hide_border=true" width="90%"/>
 </p>
 
 <br>
@@ -103,15 +103,15 @@ Ship it once it can be trusted.
 <h3 align="center">Let's build something worth shipping</h3>
 
 <p align="center">
-<a href="mailto:garv31106@gmail.com"><img src="https://img.shields.io/badge/EMAIL-10B981?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/garv-arora-947669351"><img src="https://img.shields.io/badge/LINKEDIN-10B981?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Garv31"><img src="https://img.shields.io/badge/GITHUB-10B981?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:garv31106@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F59E0B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/garv-arora-947669351"><img src="https://img.shields.io/badge/LINKEDIN-F59E0B?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Garv31"><img src="https://img.shields.io/badge/GITHUB-F59E0B?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Garv31&label=PROFILE+VIEWS&color=10B981&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Garv31&label=PROFILE+VIEWS&color=F59E0B&style=for-the-badge" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,100:022c22&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,100:451a03&height=100&section=footer" width="100%"/>
 </p>
