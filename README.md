@@ -37,8 +37,8 @@ Most of my recent work sits at the intersection of full stack development and sy
 
 Outside of coursework, I spend time reading about distributed systems and cloud infrastructure, and translating that into side projects rather than leaving it as theory.
 
-> **Open to** — full-stack and backend-focused roles
-> **Ask me about** — React, Next.js, Node.js, PostgreSQL, system design
+> **Open to** — full-stack and backend-focused roles<br>
+> **Ask me about** — React, Next.js, Node.js, PostgreSQL, system design<br>
 > **Currently** — deepening my understanding of distributed systems
 
 <br>
@@ -73,7 +73,9 @@ Outside of coursework, I spend time reading about distributed systems and cloud 
 <br>
 
 
+
 ## GitHub Statistics
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Garv31&show_icons=true&hide_border=true&theme=shades-of-purple" height="170"/>
