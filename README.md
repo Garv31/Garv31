@@ -1,23 +1,23 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&height=70&lines=Garv+Arora" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=48&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&height=80&lines=Garv+Arora" alt="Name" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=A5B4FC&center=true&vCenter=true&width=650&lines=Software+Engineer+%C2%B7+Full+Stack+Developer+%C2%B7+Backend+Focused" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2500&pause=800&color=F0ABFC&center=true&vCenter=true&width=900&lines=Software+Engineer+%C2%B7+Full+Stack+Developer+%C2%B7+Backend+Focused" alt="Tagline" />
 </p>
 
 <p align="center">
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-your.email@example.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-Garv%20Arora-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GITHUB-YOUR__USERNAME-6366F1?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-your.email@example.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-Garv%20Arora-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GITHUB-YOUR__USERNAME-A855F7?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-A855F7?style=for-the-badge" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Building+systems+that+hold+up+under+real+conditions;Backend-first+%C2%B7+System+design+%C2%B7+Clean+architecture;Turning+constraints+into+working+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Building+systems+that+hold+up+under+real+conditions;Backend-first+%C2%B7+System+design+%C2%B7+Clean+architecture;Turning+constraints+into+working+software" alt="Typing SVG" />
 </p>
 
 <br>
@@ -70,7 +70,7 @@ Ship it once it can be trusted.
 ## Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 <br>
@@ -86,12 +86,12 @@ Ship it once it can be trusted.
 ## GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=radical" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=radical" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=radical" height="170"/>
 </p>
 
 <p align="center">
@@ -103,15 +103,15 @@ Ship it once it can be trusted.
 <h3 align="center">Let's build something worth shipping</h3>
 
 <p align="center">
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-6366F1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GITHUB-6366F1?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GITHUB-A855F7?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=6366F1&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=A855F7&style=for-the-badge" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:1e1b4b&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:2e1065&height=100&section=footer" width="100%"/>
 </p>
