@@ -72,23 +72,7 @@ Fun Fact             : I debug as much as I build
 
 <br>
 
-## Trophies
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,100:1e0a2e&height=3&width=100%25" width="100%"/>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Garv31&theme=dracula&no-frame=true&row=1&column=6" />
-</p>
-
-<br>
-
-## Contribution Graph
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,100:1e0a2e&height=3&width=100%25" width="100%"/>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Garv31/Garv31/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</p>
-
-<br>
 
 ## GitHub Statistics
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,100:1e0a2e&height=3&width=100%25" width="100%"/>
