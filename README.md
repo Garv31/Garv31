@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-your.email@example.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:garv31106@gmail.com"><img src="https://img.shields.io/badge/EMAIL-your.email@example.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/garv-arora-947669351?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LINKEDIN-Garv%20Arora-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Garv31"><img src="https://img.shields.io/badge/GITHUB-YOUR__USERNAME-A855F7?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
