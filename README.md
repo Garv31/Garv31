@@ -33,7 +33,6 @@
 
 I build software with a bias toward the backend — the parts that have to stay correct under load, not just look good in a demo. My interest in engineering started with algorithmic problem solving, which is still how I approach most systems: define the constraints first, then design around them.
 
-
 ```yaml
 Currently Building : Full-stack applications with a focus on backend architecture
 Currently Learning  : Distributed systems and cloud infrastructure
