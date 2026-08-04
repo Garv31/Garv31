@@ -1,5 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:6366f1&height=200&section=header&text=Garv%20Arora&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Backend%20Focused&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&height=70&lines=Garv+Arora" alt="Name" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=A5B4FC&center=true&vCenter=true&width=650&lines=Software+Engineer+%C2%B7+Full+Stack+Developer+%C2%B7+Backend+Focused" alt="Tagline" />
 </p>
 
 <p align="center">
@@ -59,6 +63,22 @@ Ship it once it can be trusted.
 <p align="center"><strong>Database & Tools</strong></p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,git,github,postman,vscode,vercel&theme=dark" />
+</p>
+
+<br>
+
+## Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<br>
+
+## Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </p>
 
 <br>
