@@ -29,31 +29,31 @@
 <br>
 
 ## About
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,100:1e0a2e&height=3&width=100%25" width="100%"/>
 
 I build software with a bias toward the backend — the parts that have to stay correct under load, not just look good in a demo. My interest in engineering started with algorithmic problem solving, which is still how I approach most systems: define the constraints first, then design around them.
 
 Most of my recent work sits at the intersection of full stack development and system design — building APIs and data models that hold up as an application grows, not just ones that work on day one. I care about the reasoning behind an architectural decision as much as the decision itself.
 
+Outside of coursework, I spend time reading about distributed systems and cloud infrastructure, and translating that into side projects rather than leaving it as theory.
 
-```text
-Open to      : full-stack and backend-focused roles
-Ask me about : React, Next.js, Node.js, PostgreSQL, system design
-Currently    : deepening my understanding of distributed systems
-```
+> **Open to** — full-stack and backend-focused roles
+> **Ask me about** — React, Next.js, Node.js, PostgreSQL, system design
+> **Currently** — deepening my understanding of distributed systems
 
 <br>
 
 ## Philosophy
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,100:1e0a2e&height=3&width=100%25" width="100%"/>
 
-```text
-Understand the problem before touching the code.
-Design for the constraints, not just the happy path.
-Ship it once it can be trusted.
-```
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=750&height=90&lines=Understand+the+problem+before+touching+the+code.;Design+for+the+constraints%2C+not+just+the+happy+path.;Ship+it+once+it+can+be+trusted." alt="Philosophy" />
+</p>
 
 <br>
 
 ## Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,100:1e0a2e&height=3&width=100%25" width="100%"/>
 
 <p align="center"><strong>Frontend</strong></p>
 <p align="center">
@@ -74,6 +74,11 @@ Ship it once it can be trusted.
 
 
 ## GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Garv31&show_icons=true&hide_border=true&theme=shades-of-purple" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garv31&layout=compact&hide_border=true&theme=shades-of-purple" height="170"/>
+</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garv31&hide_border=true&theme=shades-of-purple" height="170"/>
