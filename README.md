@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2500&pause=800&color=E9D5FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%C2%B7+Full+Stack+Developer+%C2%B7+Backend+Focused" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2500&pause=800&color=E9D5FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%C2%B7+Mern+Stack+Developer+%C2%B7+Backend+Focused" alt="Tagline" />
 </p>
 
 <p align="center">
@@ -33,9 +33,6 @@
 
 I build software with a bias toward the backend — the parts that have to stay correct under load, not just look good in a demo. My interest in engineering started with algorithmic problem solving, which is still how I approach most systems: define the constraints first, then design around them.
 
-Most of my recent work sits at the intersection of full stack development and system design — building APIs and data models that hold up as an application grows, not just ones that work on day one. I care about the reasoning behind an architectural decision as much as the decision itself.
-
-Outside of coursework, I spend time reading about distributed systems and cloud infrastructure, and translating that into side projects rather than leaving it as theory.
 
 ```yaml
 Currently Building : Full-stack applications with a focus on backend architecture
@@ -76,10 +73,26 @@ Fun Fact             : I debug as much as I build
 
 <br>
 
+## Trophies
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,100:1e0a2e&height=3&width=100%25" width="100%"/>
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Garv31&theme=dracula&no-frame=true&row=1&column=6" />
+</p>
+
+<br>
+
+## Contribution Graph
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,100:1e0a2e&height=3&width=100%25" width="100%"/>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Garv31/Garv31/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</p>
+
+<br>
 
 ## GitHub Statistics
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,100:1e0a2e&height=3&width=100%25" width="100%"/>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Garv31&show_icons=true&hide_border=true&theme=shades-of-purple" height="170"/>
