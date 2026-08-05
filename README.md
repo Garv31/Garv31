@@ -47,7 +47,7 @@ Fun Fact             : I debug as much as I build
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,100:1e0a2e&height=3&width=100%25" width="100%"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=750&height=90&lines=Understand+the+problem+before+touching+the+code.;Design+for+the+constraints%2C+not+just+the+happy+path.;Ship+it+once+it+can+be+trusted." alt="Philosophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=900&height=90&lines=Code+is+written+once%2C+but+maintained+for+years.;Write+it+with+intention.;Clarity+over+cleverness." alt="Philosophy" />
 </p>
 
 <br>
