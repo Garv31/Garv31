@@ -30,16 +30,11 @@
 
 ## About
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9333EA,100:1e0a2e&height=3&width=100%25" width="100%"/>
+<br>
 
-I build software with a bias toward the backend — the parts that have to stay correct under load, not just look good in a demo. My interest in engineering started with algorithmic problem solving, which is still how I approach most systems: define the constraints first, then design around them.
+For me, software engineering is less about writing code and more about making thoughtful decisions.
 
-```yaml
-Currently Building : Full-stack applications with a focus on backend architecture
-Currently Learning  : Distributed systems and cloud infrastructure
-Open To             : Full-stack and backend-focused roles
-Ask Me About         : React, Next.js, Node.js, PostgreSQL, system design
-Fun Fact             : I debug as much as I build
-```
+I enjoy understanding constraints, exploring trade-offs, and building systems that remain simple even as they become more capable.
 
 <br>
 
